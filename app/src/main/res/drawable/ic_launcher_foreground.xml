@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- White Card Shadow -->
+    <path
+        android:fillColor="#25000000"
+        android:pathData="M31,32 h46 c5.5,0 10,4.5 10,10 v38 c0,5.5 -4.5,10 -10,10 h-46 c-5.5,0 -10,-4.5 -10,-10 v-38 c0,-5.5 4.5,-10 10,-10 z" />
+    <!-- White Card Body -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M31,30 h46 c5.5,0 10,4.5 10,10 v38 c0,5.5 -4.5,10 -10,10 h-46 c-5.5,0 -10,-4.5 -10,-10 v-38 c0,-5.5 4.5,-10 10,-10 z" />
+    <!-- Top Header of Card (light soft indigo) -->
+    <path
+        android:fillColor="#EEF2FF"
+        android:pathData="M31,30 h46 c5.5,0 10,4.5 10,10 v6 h-66 v-6 c0,-5.5 4.5,-10 10,-10 z" />
+    <!-- Header Indicator Dots -->
+    <path
+        android:fillColor="#4F6EF7"
+        android:pathData="M38,38 a2,2 0 1,0 0.01,0 z M48,38 a2,2 0 1,0 0.01,0 z M58,38 a2,2 0 1,0 0.01,0 z" />
+    <!-- Binder Rings -->
+    <path
+        android:fillColor="#3B5BDB"
+        android:pathData="M38,27 c1.1,0 2,0.9 2,2 v4 c0,1.1 -0.9,2 -2,2 c-1.1,0 -2,-0.9 -2,-2 v-4 c0,-1.1 0.9,-2 2,-2 z M70,27 c1.1,0 2,0.9 2,2 v4 c0,1.1 -0.9,2 -2,2 c-1.1,0 -2,-0.9 -2,-2 v-4 c0,-1.1 0.9,-2 2,-2 z" />
+    <!-- Course Block 1 (Blue, Mon) -->
+    <path
+        android:fillColor="#4F6EF7"
+        android:pathData="M28,50 h13 c1.6,0 3,1.4 3,3 v24 c0,1.6 -1.4,3 -3,3 h-13 c-1.6,0 -3,-1.4 -3,-3 v-24 c0,-1.6 1.4,-3 3,-3 z" />
+    <!-- Course Block 2 (Purple, Tue Period 1) -->
+    <path
+        android:fillColor="#845EF7"
+        android:pathData="M47,50 h13 c1.6,0 3,1.4 3,3 v12 c0,1.6 -1.4,3 -3,3 h-13 c-1.6,0 -3,-1.4 -3,-3 v-12 c0,-1.6 1.4,-3 3,-3 z" />
+    <!-- Course Block 3 (Teal, Tue Period 2) -->
+    <path
+        android:fillColor="#20C997"
+        android:pathData="M47,71 h13 c1.6,0 3,1.4 3,3 v6 c0,1.6 -1.4,3 -3,3 h-13 c-1.6,0 -3,-1.4 -3,-3 v-6 c0,-1.6 1.4,-3 3,-3 z" />
+    <!-- Course Block 4 (Coral/Orange, Wed Period 2-3) -->
+    <path
+        android:fillColor="#FF6B6B"
+        android:pathData="M66,57 h13 c1.6,0 3,1.4 3,3 v17 c0,1.6 -1.4,3 -3,3 h-13 c-1.6,0 -3,-1.4 -3,-3 v-17 c0,-1.6 1.4,-3 3,-3 z" />
+</vector>

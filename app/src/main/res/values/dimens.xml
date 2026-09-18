@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Padding and Margins -->
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_md">12dp</dimen>
+    <dimen name="spacing_lg">16dp</dimen>
+    <dimen name="spacing_xl">20dp</dimen>
+    <dimen name="spacing_xxl">24dp</dimen>
+
+    <!-- Corner Radii -->
+    <dimen name="radius_sm">6dp</dimen>
+    <dimen name="radius_card">12dp</dimen>
+    <dimen name="radius_pill">20dp</dimen>
+    <dimen name="radius_dialog">16dp</dimen>
+
+    <!-- Min Touch Targets -->
+    <dimen name="min_touch_size">44dp</dimen>
+    <dimen name="btn_height">44dp</dimen>
+    <dimen name="btn_pill_height">36dp</dimen>
+
+    <!-- Text Sizes -->
+    <dimen name="text_title_large">22sp</dimen>
+    <dimen name="text_title">18sp</dimen>
+    <dimen name="text_subtitle">15sp</dimen>
+    <dimen name="text_body">14sp</dimen>
+    <dimen name="text_caption">12sp</dimen>
+    <dimen name="text_small">11sp</dimen>
+    <dimen name="text_tiny">9.5sp</dimen>
+</resources>

@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="72dp"
+    android:height="72dp"
+    android:viewportWidth="72"
+    android:viewportHeight="72">
+    <!-- Calendar Body -->
+    <path
+        android:fillColor="@color/primary_light"
+        android:pathData="M16,18 H56 A6,6 0 0 1 62,24 V54 A6,6 0 0 1 56,60 H16 A6,6 0 0 1 10,54 V24 A6,6 0 0 1 16,18 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="@color/primary"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M16,18 H56 A6,6 0 0 1 62,24 V54 A6,6 0 0 1 56,60 H16 A6,6 0 0 1 10,54 V24 A6,6 0 0 1 16,18 Z" />
+    <!-- Calendar Header Stripe -->
+    <path
+        android:fillColor="@color/primary"
+        android:pathData="M10,28 H62 V24 A6,6 0 0 0 56,18 H16 A6,6 0 0 0 10,24 Z" />
+    <!-- Rings -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="@color/primary"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M22,12 V18 M50,12 V18" />
+    <!-- Smile in Calendar -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="@color/primary"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M28,42 C32,47 40,47 44,42" />
+    <!-- Little eyes -->
+    <path
+        android:fillColor="@color/primary"
+        android:pathData="M27,36 A2,2 0 1 1 27,36.01 M45,36 A2,2 0 1 1 45,36.01" />
+</vector>

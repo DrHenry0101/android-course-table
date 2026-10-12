@@ -16,3 +16,14 @@ captures/
 # Generated packages
 *.apk
 *.aab
+
+# Local credentials and release signing material
+.env
+.env.*
+!.env.example
+keystore.properties
+signing.properties
+*.jks
+*.keystore
+*.p12
+*.pfx
